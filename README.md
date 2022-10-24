@@ -1,23 +1,7 @@
 <p align="center">
   <img src="https://github.com/dhhruv/Sudoku-Solver/blob/master/assets/thumbnail.png" width="256" height="256">
   <h2 align="center" style="margin-top: -4px !important;">Why solve Sudoku by hand, when you can write script to solve them for ya ?!</h2>
-  <p align="center">
-    <a href="https://github.com/dhhruv/Sudoku-Solver/blob/master/LICENSE">
-      <img src="https://img.shields.io/badge/license-MIT-informational">
-    </a>
-    <a href="https://www.python.org/">
-    	<img src="https://img.shields.io/badge/python-v3.8-informational">
-    </a>
-  </p>
-</p>
-<p align="center">
-	<img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
-</p>
-<p align="center">   
-	<a href="https://dev.to/dhhruv/sudoku-solver-a-visualizer-made-using-backtracking-algorithm-5f0d">
-    	<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
-    </a>
-</p>
+ 
 
 ## Introduction:
 -	Sudoku is one of the most popular logic-based number-placement puzzle game. The literal meaning of "Su-doku" in Japanese is "the number that is single".
@@ -59,26 +43,3 @@ This Script is a Sudoku Solver that solves almost any Sudoku Puzzle by visualizi
 | `Space`           | Solves the Board using the Algorithm.                           |
 | `h`               | Gives a Hint. Displays a random correct value on the board.     |
 
-## Requirements:
-In order to run the Script, the require **Python & PyGame** and you can install the requirements using:
-```
-pip install -r requirements.txt
-```
-
-## Execution:
--	Clone this repository using
-```
-git clone https://github.com/dhhruv/Sudoku-Solver.git
-```
-**OR**
-Zip Download the Repository and Extract it's contents.
--	Now run the [SudokuGUI](https://github.com/dhhruv/Sudoku-Solver/blob/master/SudokuGUI.py) file directly in your Terminal using
-```
-python SudokuGUI.py
-```
-**OR**
-```
-python3 SudokuGUI.py
-```
-
-<p align='center'><b>Made with ❤ by Dhruv Panchal</b></p>
